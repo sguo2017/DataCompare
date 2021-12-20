@@ -15,7 +15,7 @@
 ![](media/instructions/comparers2.png)
 
 ## 🔥下载地址 
-链接 [下载地址](https://github.com/sguo2017/DataCompare/blob/main/media/release/sqldelta-web-0.0.1-SNAPSHOT.jar)
+链接 [下载地址](https://github.com/sguo2017/DataCompare/blob/main/media/release/sqldelta-web-V0.1.0.211214_alpha.jar)
 
 ## 🙉联系我
 
